@@ -36,11 +36,4 @@ I downloaded the ZIP files containing the csv files from the above link but whil
 
 I am using Microsoft Excel to get a glimpse of the data. There is one csv file for each month and has information about the bike ride which contain details of the ride id, rideable type, start and end time, start and end station, latitude and longitude of the start and end stations.
 
-## Process
 
-I will use R as language in kaggle to import the dataset to check how it’s organized, whether all the columns have appropriate data type, find outliers and if any of these data have sampling bias.
-
-I will be using below R libraries 
-* **[Library 1]** (Briefly describe its purpose)
-* **[Library 2]** (Briefly describe its purpose)
-* ... (and so on) 
